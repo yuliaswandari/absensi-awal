@@ -1,1 +1,1 @@
-Sistem absensi menggunakan one time password lewat sms pakai Nexmo. Belum sempurna.
+Sistem absensi menggunakan one time password lewat sms pakai Nexmo.
